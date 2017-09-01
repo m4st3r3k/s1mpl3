@@ -1,4 +1,7 @@
-#s1mpl3 shell for begginers  
+#php shell for begginers  
 #up to server and 4 fun =p
 
+<php?
+echo "oi"
+?>
 
